@@ -1,0 +1,11 @@
+C:\Users\erwoodle\source\repos\EssentiaTraining\EssentialTrainingApp\bin\Debug\EssentialTrainingApp.exe.config
+C:\Users\erwoodle\source\repos\EssentiaTraining\EssentialTrainingApp\bin\Debug\EssentialTrainingApp.exe
+C:\Users\erwoodle\source\repos\EssentiaTraining\EssentialTrainingApp\bin\Debug\EssentialTrainingApp.pdb
+C:\Users\erwoodle\source\repos\EssentiaTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.csproj.AssemblyReference.cache
+C:\Users\erwoodle\source\repos\EssentiaTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\erwoodle\source\repos\EssentiaTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.exe
+C:\Users\erwoodle\source\repos\EssentiaTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.pdb
+C:\Users\erwoodle\source\repos\EssentiaTraining\EssentialTrainingApp\bin\Debug\NLog.config
+C:\Users\erwoodle\source\repos\EssentiaTraining\EssentialTrainingApp\bin\Debug\NLog.dll
+C:\Users\erwoodle\source\repos\EssentiaTraining\EssentialTrainingApp\bin\Debug\NLog.xml
+C:\Users\erwoodle\source\repos\EssentiaTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.csproj.CopyComplete

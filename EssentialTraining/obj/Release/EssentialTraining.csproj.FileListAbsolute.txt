@@ -1,0 +1,6 @@
+C:\Users\erwoodle\source\repos\EssentialTraining\bin\Release\EssentialTraining.dll
+C:\Users\erwoodle\source\repos\EssentialTraining\bin\Release\EssentialTraining.pdb
+C:\Users\erwoodle\source\repos\EssentialTraining\obj\Release\EssentialTraining.csproj.AssemblyReference.cache
+C:\Users\erwoodle\source\repos\EssentialTraining\obj\Release\EssentialTraining.csproj.CoreCompileInputs.cache
+C:\Users\erwoodle\source\repos\EssentialTraining\obj\Release\EssentialTraining.dll
+C:\Users\erwoodle\source\repos\EssentialTraining\obj\Release\EssentialTraining.pdb

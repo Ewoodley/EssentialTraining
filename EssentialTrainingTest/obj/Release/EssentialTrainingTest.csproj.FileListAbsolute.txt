@@ -1,0 +1,16 @@
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\bin\Release\EssentialTrainingTest.dll
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\bin\Release\EssentialTrainingTest.pdb
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\bin\Release\EssentialTraining.dll
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\bin\Release\EssentialTraining.pdb
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\obj\Release\EssentialTrainingTest.csproj.AssemblyReference.cache
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\obj\Release\EssentialTrainingTest.csproj.CoreCompileInputs.cache
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\obj\Release\EssentialTrainingTest.csproj.CopyComplete
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\obj\Release\EssentialTrainingTest.dll
+C:\Users\erwoodle\source\repos\EssentialTrainingTest\obj\Release\EssentialTrainingTest.pdb

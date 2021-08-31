@@ -1,0 +1,4 @@
+2021-08-31 07:15:26.5526 TRACE The Program Started
+2021-08-31 07:15:26.7396 ERROR The Directory was not foundCould not find a part of the path 'C:\temp\test.txt'.
+2021-08-31 07:17:02.8147 TRACE The Program Started
+2021-08-31 07:17:02.9557 ERROR The Directory was not foundCould not find a part of the path 'C:\temp\test.txt'.
